@@ -1,10 +1,8 @@
 # Curriculum Vitae
 
-PDF
+The files are in PDF format.
 
-- Resume (First Draft)
-- Resume (Second Draft)
-- Resume (Final Draft)
+- Resume
 
 Author:
 
